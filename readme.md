@@ -129,24 +129,15 @@ Kör `nosetests --rednose` test/<testnamn> för att köra enskilda tester.
 
 ### Ruby ###
 
-#TODO uppdatera länkar
-
-Läs mer om villkor och if-satser i övning 27-30 och while-loopar i övning 33 i [*Learn Ruby the Hard Way*](http://ruby.learncodethehardway.org/book)
-
-* [Learn Ruby the Hard Way - Exercise 27: Memorizing Logic](http://ruby.learncodethehardway.org/book/ex27.html)
-* [Learn Ruby the Hard Way - Exercise 28: Boolean Practice](http://ruby.learncodethehardway.org/book/ex28.html)
-* [Learn Ruby the Hard Way - Exercise 29: What If](http://ruby.learncodethehardway.org/book/ex29.html)
-* [Learn Ruby the Hard Way - Exercise 30: Else and If](http://ruby.learncodethehardway.org/book/ex30.html)
-* [Learn Ruby the Hard Way - Exercise 33: While loops](http://ruby.learncodethehardway.org/book/ex33.html)
+[Learn Ruby the Hard Way - Exercise 32: Loops and Arrays](http://ruby.learncodethehardway.org/book/ex32.html)
+[Learn Ruby the Hard Way - Exercise 34: Accessing Elements of Arrays](http://ruby.learncodethehardway.org/book/ex34.html)
+[Learn Ruby the Hard Way - Exercise 38: Doing Things to Arrays](http://ruby.learncodethehardway.org/book/ex38.html)    
+[RubyDoc - Array](http://www.ruby-doc.org/core-2.1.3/Array.html])
+[RubyDoc - Enumerable](http://ruby-doc.org/core-2.1.3/Enumerable.html])
+[RubyDoc - String](http://www.ruby-doc.org/core-2.1.3/String.html)
 
 ### Python ###
 
-#TODO uppdatera länkar
-
-Läs mer om villkor och if-satser i övning 27-30 och while-loopar i övning 33 i [*Learn Python the Hard Way*](http://learnpythonthehardway.org)
-
-* [Learn Python the Hard Way - Exercise 27: Memorizing Logic](http://learnpythonthehardway.org/book/ex27.html)
-* [Learn Python the Hard Way - Exercise 28: Boolean Practice](http://learnpythonthehardway.org/book/ex28.html)
-* [Learn Python the Hard Way - Exercise 29: What If](http://learnpythonthehardway.org/book/ex29.html)
-* [Learn Python the Hard Way - Exercise 30: Else and If](http://learnpythonthehardway.org/book/ex30.html)
-* [Learn Python the Hard Way - Exercise 33: While loops](http://learnpythonthehardway.org/book/ex33.html)
+[Learn Python the Hard Way - Exercise 32: Loops and Lists](http://learnpythonthehardway.org/book/ex32.html)
+[Learn Python the Hard Way - Exercise 34: Accessing Elements of Lists](http://learnpythonthehardway.org/book/ex34.html)
+[Learn Python the Hard Way - Exercise 38: Doing Things to Lists](http://learnpythonthehardway.org/book/ex38.html])
