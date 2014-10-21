@@ -129,15 +129,15 @@ Kör `nosetests --rednose` test/<testnamn> för att köra enskilda tester.
 
 ### Ruby ###
 
-[Learn Ruby the Hard Way - Exercise 32: Loops and Arrays](http://ruby.learncodethehardway.org/book/ex32.html)
-[Learn Ruby the Hard Way - Exercise 34: Accessing Elements of Arrays](http://ruby.learncodethehardway.org/book/ex34.html)
-[Learn Ruby the Hard Way - Exercise 38: Doing Things to Arrays](http://ruby.learncodethehardway.org/book/ex38.html)    
-[RubyDoc - Array](http://www.ruby-doc.org/core-2.1.3/Array.html])
-[RubyDoc - Enumerable](http://ruby-doc.org/core-2.1.3/Enumerable.html])
-[RubyDoc - String](http://www.ruby-doc.org/core-2.1.3/String.html)
+* [Learn Ruby the Hard Way - Exercise 32: Loops and Arrays](http://ruby.learncodethehardway.org/book/ex32.html)
+* [Learn Ruby the Hard Way - Exercise 34: Accessing Elements of Arrays](http://ruby.learncodethehardway.org/book/ex34.html)
+* [Learn Ruby the Hard Way - Exercise 38: Doing Things to Arrays](http://ruby.learncodethehardway.org/book/ex38.html)    
+* [RubyDoc - Array](http://www.ruby-doc.org/core-2.1.3/Array.html])
+* [RubyDoc - Enumerable](http://ruby-doc.org/core-2.1.3/Enumerable.html])
+* [RubyDoc - String](http://www.ruby-doc.org/core-2.1.3/String.html)
 
 ### Python ###
 
-[Learn Python the Hard Way - Exercise 32: Loops and Lists](http://learnpythonthehardway.org/book/ex32.html)
-[Learn Python the Hard Way - Exercise 34: Accessing Elements of Lists](http://learnpythonthehardway.org/book/ex34.html)
-[Learn Python the Hard Way - Exercise 38: Doing Things to Lists](http://learnpythonthehardway.org/book/ex38.html])
+* [Learn Python the Hard Way - Exercise 32: Loops and Lists](http://learnpythonthehardway.org/book/ex32.html)
+* [Learn Python the Hard Way - Exercise 34: Accessing Elements of Lists](http://learnpythonthehardway.org/book/ex34.html)
+* [Learn Python the Hard Way - Exercise 38: Doing Things to Lists](http://learnpythonthehardway.org/book/ex38.html])
